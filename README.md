@@ -3,7 +3,7 @@
 
 - 🔭 Programming isn't about what you know; it's about what you can figure out**
 
-- 💬 Ask me about **dart, java, c++**
+- 💬 Ask me about **dart, java, c++, python**
 
 - 📫 How to reach me **iakwasititus@gmail.com**
 
