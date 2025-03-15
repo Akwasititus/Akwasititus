@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Titus Ayamag</h1>
+<h1 align="center">Hi 👋, I'm Titus Ayamaga</h1>
 <h3 align="center">A highly motivated and experienced Software developer seeking a challenging position in a dynamic organization where I can utilize my skills and knowledge to contribute to developing innovative Software applications.</h3>
 
 - 🔭 Programming isn't about what you know; it's about what you can figure out**
